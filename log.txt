@@ -1,0 +1,28 @@
+Array
+(
+    [update_id] => 616657224
+    [message] => Array
+        (
+            [message_id] => 33
+            [from] => Array
+                (
+                    [id] => 967644371
+                    [is_bot] => 
+                    [first_name] => Egor
+                    [username] => vxhdfbv
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 967644371
+                    [first_name] => Egor
+                    [username] => vxhdfbv
+                    [type] => private
+                )
+
+            [date] => 1743013850
+            [text] => кременчуг
+        )
+
+)
